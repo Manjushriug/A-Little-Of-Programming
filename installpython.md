@@ -1,15 +1,3 @@
-# A-Little-Of-Programming
-* Introduction to Python
-  - [Install Python]( https://manjushriug.github.io/A-Little-Of-Programming/installpython.md)
-  - Introduction to IDE
-  - What is Github?
-  - Hello World!
-* Python Basics
-  - Math operators
-  - Data types
-  - Assignment operaters
-  - string operations
-
 # How to Install Python on Your Windows Computer
 * Get Ready!
 Before you start, make sure you have:
