@@ -2,7 +2,7 @@
 * Introduction to Python
   - [Install Python]( https://manjushriug.github.io/A-Little-Of-Programming/installpython)
   - [Introduction to IDE](https://manjushriug.github.io/A-Little-Of-Programming/IDE)
-  - What is Github?
+  - [What is Github?](https://manjushriug.github.io/A-Little-Of-Programming/Github)
   - Hello World!
 * Python Basics
   - Math operators
