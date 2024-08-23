@@ -1,6 +1,6 @@
 # A-Little-Of-Programming
 * Introduction to Python
-  - Install Python
+  - [Install Python](https://github.com/Manjushriug/A-Little-Of-Programming/installpython.md)
   - Introduction to IDE
   - What is Github?
   - Hello World!
