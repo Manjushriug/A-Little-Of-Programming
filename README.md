@@ -5,6 +5,7 @@
   - [What is Github?](https://manjushriug.github.io/A-Little-Of-Programming/Github)
   - Hello World!
   - [More of print](https://manjushriug.github.io/A-Little-Of-Programming/print)
+  - [Variables](https://manjushriug.github.io/A-Little-Of-Programming/variables)
 * Python Basics
   - Math operators
   - Data types
