@@ -7,7 +7,7 @@
   - [More of print](https://manjushriug.github.io/A-Little-Of-Programming/print)
   - [Variables](https://manjushriug.github.io/A-Little-Of-Programming/Variables)
 * Python Basics
-  - Math operators
+  - [Math operators](https://manjushriug.github.io/A-Little-Of-Programming/mathoperators)
   - Data types
   - Assignment operaters
   - string operations
