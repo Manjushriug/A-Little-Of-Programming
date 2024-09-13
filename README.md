@@ -11,7 +11,7 @@
   - Data types
   - Assignment operaters
   - string operations
-* I/O in Python
+* [I/O in Python](https://manjushriug.github.io/A-Little-Of-Programming/inputOutput)
   - Accept input from user
   - Output on to the screen
   - Multiple inputs from user
