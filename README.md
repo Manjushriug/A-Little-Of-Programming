@@ -16,7 +16,7 @@
   - Output on to the screen
   - Multiple inputs from user
   - Output formatting
-* Conditionals
+* [Conditionals](https://manjushriug.github.io/A-Little-Of-Programming/conditionals)
   - Introduction to if else and its usage
 * Loops
   - Using while, and for loops
