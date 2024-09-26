@@ -18,7 +18,7 @@
   - Output formatting
 * [Conditionals-if-else](https://manjushriug.github.io/A-Little-Of-Programming/conditionals)
   - Introduction to if else and its usage
-* Loops
+* [Loops](https://manjushriug.github.io/A-Little-Of-Programming/loops)
   - Using while, and for loops
 * How do you store data, use data in your code
    - Introduction to Collections in python
