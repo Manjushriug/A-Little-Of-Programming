@@ -36,5 +36,5 @@
 * Hands-on Project(Game development using Turtle)
   -  Spans for 2-3 sessions
 * [Assignment 1(if-else)](https://manjushriug.github.io/A-Little-Of-Programming/Assignments.md)
-* [Assignment 2 (Math-operator)]
-* 
+* [Assignment 2 (Math-operator)](https://manjushriug.github.io/A-Little-Of-Programming/Assignments-Math-Operator.md)
+  
