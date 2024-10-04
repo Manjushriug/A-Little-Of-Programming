@@ -20,7 +20,7 @@
   - Introduction to if else and its usage
 * [Loops](https://manjushriug.github.io/A-Little-Of-Programming/loops)
   - Using while, and for loops
-* How do you store data, use data in your code
+* [How do you store data, use data in your code](https://manjushriug.github.io/A-Little-Of-Programming/collections)
    - Introduction to Collections in python
    - What are the 3 primitive collectins?
    - Use cases of collections
