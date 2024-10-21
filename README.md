@@ -37,4 +37,5 @@
   -  Spans for 2-3 sessions
 * [Assignment 1(if-else)](https://manjushriug.github.io/A-Little-Of-Programming/Assignments)
 * [Assignment 2 (Math-operator)](https://manjushriug.github.io/A-Little-Of-Programming/Assignments-Math-Operator)
+* [Assignment 3 (loops)](https://manjushriug.github.io/A-Little-Of-Programming/Assignment3)
   
