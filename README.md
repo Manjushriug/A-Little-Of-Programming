@@ -24,7 +24,7 @@
    - Introduction to Collections in python
    - What are the 3 primitive collectins?
    - Use cases of collections
-* Want to re-use the code?
+* [Want to re-use the code?-Functions](https://manjushriug.github.io/A-Little-Of-Programming/Functions)
   - Introduction to functions
   - Use cases
 * How do you handle errors in your code
