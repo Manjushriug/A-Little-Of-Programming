@@ -39,5 +39,5 @@
 * [Assignment 2 (Math-operator)](https://manjushriug.github.io/A-Little-Of-Programming/Assignments-Math-Operator)
 * [Assignment 3 (loops)](https://manjushriug.github.io/A-Little-Of-Programming/Assignment3)
 * [Project 1 (Dictionary, functions)](https://manjushriug.github.io/A-Little-Of-Programming/Project-1)
-* [Project 2 ](https://manjushriug.github.io/A-Little-Of-Programming/Turtle-Race)
+* [Project 2 ](https://manjushriug.github.io/A-Little-Of-Programming/Turtle-racing-game)
   
